@@ -21,5 +21,7 @@ print(c)
 
 
 ## Output
+<img width="1264" height="370" alt="image" src="https://github.com/user-attachments/assets/674b1b65-5b63-44b6-a8d0-773c32cc8bf3" />
 
 ## Result
+Thus the program executed successfully.
